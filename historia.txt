@@ -1,2 +1,4 @@
 Esta es una práctica de Git
 Clases de Platzi
+
+Con Freddy Vega
